@@ -7,12 +7,17 @@
 
 <br>
 
+## 📈 **Current Stats**
+
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiyan109&show_icons=true&locale=en&layout=compact" alt="raiyan109" /></p>
+
+<p>&nbsp;<img align="center" margin-bottom='10px' src="https://github-readme-stats.vercel.app/api?username=raiyan109&show_icons=true&locale=en" alt="raiyan109" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiyan109&" alt="raiyan109" /></p>
 
 
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## 📪 **About me**
 
 <br>
 
